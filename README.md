@@ -1,1 +1,2 @@
 # CS3090_Block2_Project
+This repository holds my work completed for the Block 2 project within CS 3090. This includes the selection of a copyright license, and then an ethical analysis of the question: Is it ethical to use generative AI for government lobbying or other areas of political influence, as described in the article?
